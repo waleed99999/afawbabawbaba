@@ -195,6 +195,7 @@ client.on('message', message => {
    message.channel.sendMessage(args.join("  "))
    message.delete()
   }
+ });
 
 
 client.login(process.env.TOKEN);// لا تغير فيها شيء
