@@ -187,4 +187,4 @@ client2.login(process.env.TOKEN2);// لا تغير فيها شيء
 client.login(process.env.TOKEN3);// لا تغير فيها شيء
 client.login(process.env.TOKEN4);// لا تغير فيها شيء
 client.login(process.env.TOKEN5);// لا تغير فيها شيء
-"NTE2MzQ5MTYxMjgxNjgzNDYw.DtyYhQ.NkRqqdSD84WH8G2-qSP86_pBB5E"1
+
