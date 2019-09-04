@@ -1,5 +1,5 @@
 rtmps://live-api-s.facebook.com:443/rtmp/
-741899369564762?s_bl=1&s_ps=1&s_sml=3&s_sw=0&s_vt=api-s&a=AbznLy73PWxmTwRKXqo
+111637113549083?s_bl=0&s_ps=1&s_sw=0&s_vt=api-s&a=AbxH2JwQBNdWLu4caqA
 const Discord = require("discord.js");
 const client = new Discord.Client();
 const client2 = new Discord.Client();
